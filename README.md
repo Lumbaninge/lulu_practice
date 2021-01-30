@@ -1,2 +1,2 @@
 # lulu_practice
-leaning how to use git
+learning how to use git
